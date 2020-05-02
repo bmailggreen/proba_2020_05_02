@@ -1,2 +1,4 @@
 1. kenyér
 2. tej
+3. sör
+4, cigi
